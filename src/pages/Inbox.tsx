@@ -114,7 +114,7 @@ const Inbox = () => {
                   </div>
                 </CardHeader>
                 <CardContent className="space-y-3">
-                  <Input placeholder="To..." value={composeTo} onChange={e => setComposeTo(e.target.value)} />
+                  <Input  type = "email" placeholder="To..." value={composeTo} onChange={e => setComposeTo(e.target.value)} />
                   <Input placeholder="Subject" value={composeSubject} onChange={e => setComposeSubject(e.target.value)} />
                   <Textarea placeholder="Write your message..." value={composeBody} onChange={e => setComposeBody(e.target.value)} className="min-h-[250px]" />
                   <div className="flex justify-end">
