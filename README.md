@@ -1,54 +1,36 @@
-# Welcome to our project
+🎤 EduFlow Workspace — Pitch
+Problem
 
-## Project info
+Universities are struggling with the rise of AI in academics. Current solutions focus on blocking AI, which is ineffective and creates adversarial relationships between students and institutions. At the same time, students lack access to credible academic resources and proper guidance on how to use AI ethically.
 
-## How can I edit this code?
+Solution
 
-There are several ways of editing your application.
+EduFlow Workspace is a collaborative academic platform that embraces AI responsibly. Instead of replacing student effort, it integrates AI as a guided academic assistant, helping students research, write, and cite correctly while giving lecturers full visibility and control over learning and assessment.
 
-**Use your preferred IDE**
+How It Works
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+EduFlow provides:
+1. A centralized dashboard for academic activity
+2. A resources hub for lecturer-approved journals and notes
+3. A submission and grading system for lecturers
+4. Document analysis with plagiarism detection and corrective guidance
+5. A student workspace with an in-built editor and a non-generative AI assistant
+6. An inbox for academic communication
+7. A help system for onboarding and FAQs
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+What Makes Us Different
 
-Follow these steps:
+1. AI does not write assignments
+2. AI is restricted to resource discovery, explanation, and structure
+3. Students remain accountable for submissions
+4. Lecturers retain authority and oversight
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Impact
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+1. Improves academic integrity
+2. Reduces AI misuse instead of policing it
+3. Teaches students how to think, research, and write academically
 
-# Step 3: Install the necessary dependencies.
-npm i
+Vision 
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
+EduFlow aims to become the standard academic workspace for universities adopting AI ethically and transparently.
